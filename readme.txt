@@ -3,7 +3,7 @@ Contributors: javatopsystems
 Donate link: https://javatop.com.au
 Tags: comments, disable comments, remove comments, no comments, spam
 Requires at least: 6.0
-Tested up to: 6.7
+Tested up to: 6.9
 Requires PHP: 8.0
 Stable tag: 1.1.0
 License: GPLv2 or later
